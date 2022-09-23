@@ -2,4 +2,4 @@
 Mi primer repositorio en github
 
 
-Ichiro Efrain Yamamoto Velasco
+Autor: Ichiro Yamamoto 
